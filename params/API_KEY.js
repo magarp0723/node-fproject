@@ -1,0 +1,2 @@
+API_KEY="60977552d2f3ad329ed885b65b977b00";
+module.exports=API_KEY;
